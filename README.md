@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mykola
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning telegramApi
